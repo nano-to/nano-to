@@ -1,5 +1,13 @@
 [
   {
+    "name": "Cogtrix",
+    "address": "nano_1nchtebmwcyb316gg69nmefq7f1chrkgirdy3e9uwswsuce45nk34mjuyeix",
+    "created": "April 30, 2026",
+    "expires": "April 30, 2027",
+    "created_unix": 1777552406,
+    "expires_unix": 1809088380
+  },
+  {
     "name": "Surckre",
     "address": "nano_1hn4q7kwwebt1esbejbrjpzj7gqskcbz1f8fsoagwe5xbdjkojxhh8nhexcu",
     "created": "April 5, 2026",
