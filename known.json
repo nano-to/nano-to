@@ -339,14 +339,6 @@
     "expires_unix": 1777793940
   },
   {
-    "name": "Nona-lib",
-    "address": "nano_3s5nwkjod5imtwi6upk1fm17gzzjzru656w88aqnfjk1qusfdupbr8hjn6qy",
-    "created": "April 25, 2024",
-    "expires": "April 25, 2026",
-    "created_unix": 1714065343,
-    "expires_unix": 1777137300
-  },
-  {
     "name": "Mike",
     "address": "nano_1wqzfnf5gcyg1wzuaijhtqxdfk5tune5qhrtx1rip39ayinwum8bjos3jfir",
     "created": "April 15, 2024",
