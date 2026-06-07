@@ -991,14 +991,6 @@
     "expires_unix": 1688644620
   },
   {
-    "name": "Nault",
-    "address": "nano_31c9kzitqgcqtm9rh5r8dr8iugsqmsmntx6y1ofj75dc9r6bqp4aheinsgzr",
-    "created": "May 27, 2023",
-    "expires": "May 28, 2026",
-    "created_unix": 1685232545,
-    "expires_unix": 1779940800
-  },
-  {
     "name": "Daniel",
     "address": "nano_3f55x7n8azbjqswo4mne4osbp4oe3g3umah4sqgw3wk9mk1gs5416jp9nsk6",
     "created": "May 25, 2023",
