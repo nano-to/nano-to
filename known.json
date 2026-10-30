@@ -1531,14 +1531,6 @@
     "expires_unix": 1951057800
   },
   {
-    "name": "saker",
-    "address": "nano_1saker3z4arb3kjxa765z31w7f3t3gzm7hcwda87eo6bw5xirswhtomztnz4",
-    "created": "October 20, 2021",
-    "expires": "October 20, 2026",
-    "created_unix": 1634771280,
-    "expires_unix": 1792537680
-  },
-  {
     "name": "xanza",
     "address": "nano_19ditzdezoffa3g8hjpcoqb6c6q5zjq13u1coqtzrwh9wm6e8j4zeom3i5gw",
     "created": "October 20, 2021",
